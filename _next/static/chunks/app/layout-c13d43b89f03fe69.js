@@ -555,7 +555,7 @@
                                     className: "ml-2.5 flex gap-2.5",
                                     children: [
                                         (0, a.jsx)(r.default, {
-                                            src: "/icons/wheel.svg",
+                                            src: "/logo-white.png",
                                             width: 15,
                                             height: 15,
                                             alt: "wheel",
@@ -587,13 +587,13 @@
                                         (0, a.jsx)(r.default, {
                                             priority: !0,
                                             className: "group-hover:rotate-180 transition-all duration-1000",
-                                            src: "/logo.svg",
+                                            src: "/logo.png",
                                             width: 20,
                                             height: 20,
                                             alt: "Logo",
                                         }),
                                         (0, a.jsx)(r.default, {
-                                            src: "/logo-text.svg",
+                                            src: "/logo-text.png",
                                             className: "w-full",
                                             width: 20,
                                             height: 20,
