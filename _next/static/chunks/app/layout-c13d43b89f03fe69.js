@@ -115,7 +115,7 @@
                                             }),
                                             (0, a.jsx)("p", {
                                                 className: "text-[#B3C0DB] text-sm text-center md:text-right",
-                                                children: "\xa9Neos Labs Inc.",
+                                                children: "\xa9HumanAI Labs Inc.",
                                             }),
                                         ],
                                     }),
@@ -537,11 +537,11 @@
                 });
             var P = s(8331);
             let C = [
-                    "JOIN NEOS TELEGRAM",
+                    "JOIN HUMANAI TELEGRAM",
                     "READ OUR WHITEPAPER",
                     "THE FUTURE IS SOLVABLE",
                     "BE AWARE OF SCAMS",
-                    "$NEOS TOKEN NOW TRADING",
+                    "$HUMANAI TOKEN NOW TRADING",
                     "BE AWARE OF SCAMS",
                 ],
                 R = () =>
